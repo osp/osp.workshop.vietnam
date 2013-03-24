@@ -1,0 +1,387 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	<title>  Valentine scripting</title>
+	
+	<meta name="generator" content="WordPress 3.0.5" /> <!-- leave this for stats -->
+	
+	<link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/themes/osp/style.css" type="text/css" media="screen" />
+
+	<link rel="alternate" type="application/rss+xml" title="OSP RSS Feed" href="http://ospublish.constantvzw.org/feed" />
+	<link rel="pingback" href="http://ospublish.constantvzw.org/xmlrpc.php" />
+
+	<link rel="icon" type="image/gif" href="http://ospublish.constantvzw.org/wp-content/uploads/frog.gif">
+
+	<link rel="alternate" type="application/rss+xml" title="OSP &raquo; Valentine scripting Comments Feed" href="http://ospublish.constantvzw.org/works/valentine-scripting/feed" />
+<script src="http://simile.mit.edu/ajax/api/simile-ajax-api.js" type="text/javascript"></script><script src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" type="text/javascript"></script><link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/plugins/wp-simile-timeline/data/custom.css" type="text/css" />
+<link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/plugins/wp-simile-timeline/data/timeline.css.php" type="text/css" />
+<link rel='stylesheet' id='wp-polls-css'  href='http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/polls-css.css?ver=2.50' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js?ver=1.4.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ospublish.constantvzw.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ospublish.constantvzw.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='OSP' href='http://ospublish.constantvzw.org' />
+<link rel='start' title='Ok, it is time now.' href='http://ospublish.constantvzw.org/news/is-it-possible' />
+<link rel='prev' title='Tools for conviviality' href='http://ospublish.constantvzw.org/texts/tools-for-conviviality' />
+<link rel='next' title='Collaborative Futures' href='http://ospublish.constantvzw.org/news/collaborative-futures' />
+<meta name="generator" content="WordPress 3.0.5" />
+<link rel='canonical' href='http://ospublish.constantvzw.org/works/valentine-scripting' />
+<link rel='shortlink' href='http://ospublish.constantvzw.org/?p=3797' />
+
+	<!-- Portfolio Slideshow-->
+	<link rel="stylesheet" type="text/css" href="http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/portfolio-slideshow.css?ver=1.1.2" />
+	<noscript><link rel="stylesheet" type="text/css" href="http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/portfolio-slideshow-noscript.css?ver=1.1.2" /></noscript>
+	<script type="text/javascript">/* <![CDATA[ */var psTimeout = new Array(); var psTrans =  new Array(); var psSpeed =  new Array(); var psNoWrap =  new Array();/* ]]> */</script>
+	<!--//Portfolio Slideshow-->
+			<style type="text/css">
+						ol.footnotes li {list-style-type:decimal;}
+						ol.footnotes{font-size:0.8em; color:#666666;}		</style>
+		<style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+</style>
+<!-- Wordpress Popular Posts v2.1.4 -->
+<script type="text/javascript" charset="utf-8">
+    /* <![CDATA[ */				
+	jQuery.post('http://ospublish.constantvzw.org/wp-admin/admin-ajax.php', {action: 'wpp_update', token: 'f81a523d34', id: 3797});
+    /* ]]> */
+</script>
+<!-- End Wordpress Popular Posts v2.1.4 -->
+            
+<!-- Wordpress Popular Posts v2.1.4 -->
+<link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/plugins/wordpress-popular-posts/style/wpp.css" type="text/css" media="screen" />
+<!-- End Wordpress Popular Posts v2.1.4 -->
+
+</head>
+<body>
+
+<div id="container">
+
+<div id="masthead">
+
+
+	<h1><a href="http://ospublish.constantvzw.org" title="Home">OSP</a><a href="http://en.wikipedia.org/wiki/Tardigrada" class="star" title="Tardigrade"><img src="http://ospublish.constantvzw.org/wp-content/themes/osp/images/bear_7.jpg"></a>
+
+
+</h1>
+
+	<h2>Open Source Publishing &#8211; Design Tools For Designers</h2>
+</div><!--masthead-->
+
+<!--<div id="head_bckgr"><img src="http://ospublish.constantvzw.org/wp-content/themes/osp/images/title.jpg"></a></div>-->
+
+		<ul id="subnav"><li><a href="http://ospublish.constantvzw.org">Home</a></li><li class="page_item page-item-2"><a href="http://ospublish.constantvzw.org/about" title="About">About</a></li>
+<li class="page_item page-item-83"><a href="http://ospublish.constantvzw.org/archives" title="Archives">Archives</a></li>
+<li class="page_item page-item-241"><a href="http://ospublish.constantvzw.org/contact" title="Contact">Contact</a></li>
+<li class="page_item page-item-4838"><a href="http://ospublish.constantvzw.org/library" title="Library">Library</a></li>
+<li class="page_item page-item-81"><a href="http://ospublish.constantvzw.org/links" title="Links">Links</a></li>
+<li class="page_item page-item-938"><a href="http://ospublish.constantvzw.org/tags" title="Tags">Tags</a></li>
+<li><a href="/recipes">Recipes</a></li><li><a href="/image">Snapshots</a></li><li><a href="/works">Works</a></li><li><a href="/foundry">Foundry</a></li></ul>
+
+	<ul id="nav">
+			<li class="cat-item cat-item-18"><a href="http://ospublish.constantvzw.org/category/conversation" title="OSP converses, talks with, interviews.">Conversations</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://ospublish.constantvzw.org/category/downloads" title="Our foundry and source repository. A list of digital files.">Downloads</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://ospublish.constantvzw.org/category/education" title="OSP teaches and learns.">Education</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://ospublish.constantvzw.org/category/live" title="OSP shares findings. Prints and parties. Public appearances.">Live</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://ospublish.constantvzw.org/category/news" title="Fresh and new for and at OSP.">News</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://ospublish.constantvzw.org/category/texts" title="Library. Texts we like, texts we write.">Texts</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://ospublish.constantvzw.org/category/tools" title="Tools for work and reflection. Not always digital.">Tools</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://ospublish.constantvzw.org/category/type" title="Typography to write and design with.">Type</a>
+</li>
+	</ul>
+	<div id="content_box">
+		<div id="left_side">			
+					
+		<div class="navigation">
+	<span class="previous">&laquo; <a href="http://ospublish.constantvzw.org/texts/tools-for-conviviality" rel="prev">Tools for conviviality</a> </span>
+	<span class="next"><a href="http://ospublish.constantvzw.org/news/collaborative-futures" rel="next">Collaborative Futures</a> &raquo;</span>
+</div><!--navigation-->			
+	<div class="wide_post">
+		<div class="post">
+			<h1>Valentine scripting</h1>
+			<p class="meta"><a href="http://ospublish.constantvzw.org/category/works" title="View all posts in Works" rel="category tag">Works</a> &middot; January 29th, 2010 &middot;  <a href="http://ospublish.constantvzw.org/author/osp/" title="Posts by OSP">OSP</a></p>
+			<div class="entry">
+				<p><a href="http://ospublish.constantvzw.org/wp-content/uploads/openbaar_poster.jpg"><img class="alignleft size-medium wp-image-3799" style="border: 1px solid gray;" title="openbaar_poster" src="http://ospublish.constantvzw.org/wp-content/uploads/openbaar_poster-282x400.jpg" alt="" width="282" height="400" /></a><br />
+<small>Poster and flyer designed and produced in OpenOffice</small></p>
+<p>This week and next, colleague and friend <a href="http://www.adashboard.org/">An Mertens</a> (a.k.a. Ana Foor) works out of the Elsene local library <a href="http://www.elsene.bibliotheek.be/">Sans Souci</a>. She&#8217;ll be listening to your account of meeting a loved one for the first time, those  habits that keep your relationship alive or which imaginary place you would like to visit with your best friend. Just like an oldfashioned <em>Ecrivain Public</em>, Ana Foor will transform these conversations into unique Valentine letters and -stories published on the fly. In the waiting room, a selection of (Dutch language) romantic literature is available, plus a choice of styles and formats presented in a catalog developed/designed by OSP&#8217;s  Femke, Ludivine, Ivan, Nicolas and Pierre M.<br />
+<span id="more-3797"></span><br />
+For practical and conceptual reasons, we wanted to produce the customised stories and letters with the help of the well-known word processing tool OpenOffice, and were curious to see what could happen if we&#8217;d use that same tool for designing and printing the catalog, poster and invitation too. Most of all we couldn&#8217;t resist to play with <a href="http://opendocumentfellowship.com/projects/odfpy">odfpy</a>, a Python library that can generate .odt documents from scratch. It got us into various strange and exotic problems, just the way we like it <img src='http://ospublish.constantvzw.org/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+<p><strong>Templates</strong></p>
+<p><img class="alignleft size-medium wp-image-3828" style="border: 1px solid gray;" title="form" src="http://ospublish.constantvzw.org/wp-content/uploads/form-400x257.png" alt="" width="400" height="257" /><br />
+<small><a href="http://ospublish.constantvzw.org/wp-content/uploads/openbaar-schrijver_formular02.pdf">This form</a> lists all possible styles presented in the catalog</small></p>
+<p>We designed a set of 6 basic lay-outs mixed with 9 different decorative &#8216;spices&#8217; and this for three different types of content (story, poem or letter). On top of that, there are three types of media to choose from (web, A4 sheet and booklet). To help identify each of the styles, we came up with a flexible system of re-combinatorial template names that also somehow explains how the project works:</p>
+<ul>
+<li>Sexy Maan</li>
+<li>Lavendel Panter</li>
+<li>Lungo Ijs</li>
+<li>Espresso Stormen</li>
+<li>Chocolade Valleien</li>
+<li>Koraal Verlangen</li>
+<li>Kristallen Maan</li>
+<li>Roze Panter</li>
+<li>Champagne Ijs</li>
+</ul>
+<p><strong>odfpy</strong><br />
+&#8220;<em>Unlike other more convenient APIs, this one is essentially an abstraction layer just above the XML format. The main focus has been to prevent the programmer from creating invalid documents.</em>&#8221;</p>
+<p>Nicolas had pointed us to the <a href="http://opendocumentfellowship.com/projects/odfpy">odfpy</a> library a while ago, and this lovely catalog seemed the ultimate opportunity to experiment with it. <a href="http://opendocumentfellowship.com/projects/odfpy">odfpy</a> adds a Python-scripting interface to OpenOffice; with the help of this library you can dynamically generate files in the Open Document Format (.odt, .ods). <a href="http://opendocumentfellowship.com/projects/odfpy">odfpy</a> uses OpenOffice in the background, but without its graphical user interface.</p>
+<p><img class="alignleft size-full wp-image-3834" title="odt" src="http://ospublish.constantvzw.org/wp-content/uploads/odt.png" alt="" width="379" height="144" /><br />
+<small>To see what elements an .odt-file consists of,  &#8216;extract&#8217; it like a .zip or .tar file</small></p>
+<p><code>&lt;office:body&gt;&lt;office:text&gt;&lt;text:sequence-decls&gt;&lt;text:sequence-decl text:display-outline-level="0" text:name="Illustration"/&gt;&lt;text:sequence-decl text:display-outline-level="0" text:name="Table"/&gt;&lt;text:sequence-decl text:display-outline-level="0" text:name="Text"/&gt;&lt;text:sequence-decl text:display-outline-level="0" text:name="Drawing"/&gt;&lt;/text:sequence-decls&gt;&lt;text:p text:style-name="Standard"&gt;<span style="color: #ff0000;">Hello World</span>&lt;/text:p&gt;&lt;/office:text&gt;&lt;/office:body&gt;</code></p>
+<p><small>Fragment of <em>content.xml</em></small></p>
+<p>The Open Document format is written in a rather clean kind of <a href="http://ffff">xhtml,</a> which means it is legible compared to most other Word Processing or Desktop Publishing files we looked at. Still that did not mean it was evident how odfpy generates a frame, or calculates the size of a font. The odfpy documentation is rudimentary; it provides extensive information on the hierarchy of frames, elements and styles but for example not a list of what style-options are available. While it is nice to know at what point a frame needs to be generated, without the syntax for a single or triple border, whether it is red or shaded you can only guess. We designed sample files and than browsed their &#8216;source&#8217;, reverse engineering document settings and -styles with the help of the Open Document file specifications. It obviously took us a ridiculous amount of time to generate 162 different templates in this way.</p>
+<p><code># -*- coding: utf-8 -*-<br />
+# drawing hearts in the snow!<br />
+from odf.opendocument import OpenDocumentText<br />
+from odf.text import P, Span<br />
+from odf.style import Style, TextProperties, ParagraphProperties, BackgroundImage, GraphicProperties<br />
+from odf.draw import Frame, TextBox<br />
+from texts import *<br />
+from liblove import *</code><br />
+<small>From the header of character_spices.py: A heartwarming address</small></p>
+<p>Even when the odfpy-scripts Ivan was writing and rewriting, started to read more and more like love letters themselves &#8230; even with our general distrust of efficient methods &#8230; would we have been better off doing all this by hand? With the printer deadline approaching rapidly, we had to settle for a very basic set of styles but managed to use nearly every OSP font currently available. This publication will be both a <em>stalenboek</em> and fontcatalog.</p>
+<p><a href="http://ospublish.constantvzw.org/documents/openbaar/herbal_scripts.zip">herbal_scripts.zip</a><br />
+<small>After having installed odfpy, run <code>$ python  name_of_script.py</code> in your commandline and generate many .odt files at once</small></p>
+<p><a href="http://ospublish.constantvzw.org/documents/openbaar/OSP_fonts_ok.zip">OSP_fonts_ok.zip</a><br />
+<small>Sneak preview: Drop the contents of this folder into [yourhomefolder]/.fonts and restart OpenOffice</small></p>
+<p><strong>Output to different media</strong><br />
+Our next concern was to generate a pdf that could be handled by the in-house city council printer of Elsene. We had 162 A4 .odt files and three A5 .pdf files (produced in Scribus) that needed to be combined into one pdf. We wrote a bash-script that takes all .odt files inside a folder, transforms them into pdf, resizes them from A4 to A5 and  than gathers all files into a multi-page pdf.</p>
+<p><a href="http://ospublish.constantvzw.org/documents/openbaar/transform.sh">transform.sh</a><br />
+<small>Using some of our favorite tools: unoconv, ps2pdf, psresize and pdftk transform a series of A4 .odt files into a multi-page A5 pdf.</small></p>
+<p>As we were working on generating the files until the last minute, we failed to notice that we somehow introduced full color into a pdf that would need to be printed in black-and-white. Also, the printer needed PDF1.3 and we were generating default PDF1.4. In a quick fix, we added <a>ghostscript</a> to the already long list of pdf-tools used in the bash-script; probably making many other steps redundant (ps2pdf has  ghostscript integrated for example) but no time for clean-up or rewrite.</p>
+<p><a href="http://ospublish.constantvzw.org/documents/openbaar/transform_gray.sh">transform_gray.sh</a></p>
+<p>Still not all trouble was over. Our printer reported that he was unable to deal with part of the embedded fonts (Unable to read .ttf? Using an old-style rip?) but probably inspired by our friendly persistance, he figured out a way to transform our files into postscript once more, regenerate the font-images from there and finally &#8230; the file passed.</p>
+<p><strong>Textflow and style names</strong></p>
+<p><a href="http://ospublish.constantvzw.org/wp-content/uploads/character.png"><img class="alignleft size-medium wp-image-3838" title="character" src="http://ospublish.constantvzw.org/wp-content/uploads/character-400x251.png" alt="" width="400" height="251" /></a><br />
+<small>OpenOffice: Where did the characterstyles go?</small></p>
+<p>The custom publications An will produce on the fly are based on the same .odt templates that we printed in the catalog. In a first dry-run, we realised that they needed to be corrected since the documents we had generated for the printed catalog, basically consisted of single frames. Also, it took a bit of work to generate documents that made the applied styles correctly available in the OpenOffice style menu. We managed by making each of the documents 16 pages (maximum length of the booklet) but gave up on making character styles behave correctly.</p>
+<p><strong>podofoimpose</strong><br />
+“<em>PoDoFo is a library to work with the PDF file format and includes also a few tools. The name comes from the first two letters of PDF (Portable Document Format)</em>”</p>
+<p>After Ludivine converted three of our favourite templates into <a href="http://ospublish.constantvzw.org/documents/openbaar/love-web01.zip">css stylesheets for web-output</a> (we love @fontface!), our last challenge was to deal with was imposition. <a href="http://ospublish.constantvzw.org/tools/how-to-print-a-booklet-in-16-steps">Since early OSP-days</a> we&#8217;ve been experimenting with several ways to generate A5 booklets, but we never managed 2 x 8 pages on an A4 (A7 booklet). Pierre Marchand pointed us once again to PoDoFO, a pdf-processing tool to which he once added <em>podofoimpose</em>, adding the useful function to run custom imposition &#8216;plans&#8217;. With only a bit of trouble and help, we installed PoDoFo on our machines (We&#8217;re using Ubuntu 8.10 and 9.10):</p>
+<p>Start with downloading (&#8216;check out&#8217;) the latest files with svn (install svn with <code>$ sudo apt-get install subversion</code>)</p>
+<p><code>$ svn co https://podofo.svn.sourceforge.net/svnroot/podofo/podofo/trunk podofo</code></p>
+<p>Download and install the libraries PoDofo depends on:</p>
+<p><code>$ sudo apt-get install build-essential g++ cmake libz-dev libtiff-dev libjpeg-dev libfreetype6-dev libfontconfig-dev</code><br />
+<code>$ sudo apt-get install liblua5.1-0-dev</code></p>
+<p>Than, copy the files into a folder into your home directory (you need to create the folder first):</p>
+<p><code>$ mkdir /home/[your_user_name]/src/podofo</code><br />
+<code>$ cp /home/[podofo_download] /home/[your_user_name]/src/podofo</code></p>
+<p>From inside the build folder, you now need to compile PoDoFo from source with the help of the cmake-compiler (install cmake with <code>$ sudo apt-get install cmake</code>)</p>
+<p><code>$ cd </code><code>/home/[your_user_name]/src/podofo/build</code><br />
+<code>$ mkdir<br />
+$ cd<br />
+$ cmake ../podofo<br />
+$ make<br />
+$ sudo su<br />
+$ make install</code></p>
+<p>podofoimpose can read imposition instructions from files written in lua, a scripting language that is used with ConTeXt for example. With the help of a proper paper dummy, Ludivine managed to write the correct &#8216;plan&#8217; to output A7 booklets <img src='http://ospublish.constantvzw.org/wp-includes/images/smilies/icon_biggrin.gif' alt=':-D' class='wp-smiley' /> </p>
+<p><a href="http://ludi.be/contenu/InOctavo.plan">InOctavo.plan</a></p>
+<p><code>PushRecord((pgroup*count)+9, (count*2)+1, rot2, 0, tw)<br />
+PushRecord((pgroup*count)+16, (count*2)+1, rot1, 2*th, 0)<br />
+PushRecord((pgroup*count)+13, (count*2)+1, rot1, 2*th, 3*tw)<br />
+PushRecord((pgroup*count)+12, (count*2)+1, rot2, 0, 4*tw)<br />
+PushRecord((pgroup*count)+1, (count*2)+1, rot1, 2*th, tw)<br />
+PushRecord((pgroup*count)+8, (count*2)+1, rot2, 0, 2*tw)<br />
+PushRecord((pgroup*count)+4, (count*2)+1, rot1, 2*th, 2*tw)<br />
+PushRecord((pgroup*count)+5, (count*2)+1, rot2, 0, 3*tw)</code><br />
+<small>Turning and twisting: imposition from scratch</small></p>
+<p>You can use the plan like this:</p>
+<p><code>$ podofoimpose output.pdf input.pdf InOctavo.plan lua</code></p>
+<p><strong>A loose hand</strong><br />
+When the printed catalog is finally delivered, the result is not what we expected. Pages are out of order and it seems they only printed the left bottom crop/bleed mark and than everything has been cut out of the format at the top and right side. When we try to complain, we realise that dealing with an in-house city council printer has its complications. To explain our exotic project to them is not easy. But we do not flinch and keep smiling, even if we did not hand in any certified pdf&#8217;s &#8230; and even omitted page numbers! In the end, the responsible politician grants us a re-print.</p>
+<p>So &#8230; after all: A Happy Valentine!</p>
+							</div>
+			<p class="meta">Tags:  &middot; <a href="http://ospublish.constantvzw.org/tag/open-office" rel="tag">Open Office</a>, <a href="http://ospublish.constantvzw.org/tag/scripting" rel="tag">Scripting</a>, <a href="http://ospublish.constantvzw.org/tag/standards-formats" rel="tag">Standards + Formats</a></p>
+		</div>
+			<div class="clear"></div>
+		
+				</div><!--wide_post-->
+</div><!--left_side-->
+
+<div class="sidebar">
+		<li class="widget">
+<h2>Related Posts</h2>
+<ul class="related_post"><li><a href="http://ospublish.constantvzw.org/news/document-freedom-day" title="Document Freedom Day">Document Freedom Day</a></li><li><a href="http://ospublish.constantvzw.org/tools/its-possible" title="It&#8217;s possible?">It&#8217;s possible?</a></li><li><a href="http://ospublish.constantvzw.org/news/standards-and-their-stories" title="Standards and their Stories">Standards and their Stories</a></li><li><a href="http://ospublish.constantvzw.org/news/interleaved-formats" title="Interleaved formats">Interleaved formats</a></li><li><a href="http://ospublish.constantvzw.org/conversation/gml" title="GML">GML</a></li><li><a href="http://ospublish.constantvzw.org/education/posters-please-computer-make-me-design" title="please computer | make me design">please computer | make me design</a></li><li><a href="http://ospublish.constantvzw.org/works/hello-im-nancy" title="Hello I&#8217;m NANCY &#9829;">Hello I&#8217;m NANCY &#9829;</a></li></ul></li>	</div>
+<div class="r_sidebar">
+		<ul>
+	<li class="widget">
+		<form method="get" id="search_form" action="http://ospublish.constantvzw.org/">
+	<input type="text" class="search_input" value="Search" name="s" id="s" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+	<input type="hidden" id="searchsubmit" value="Search" />
+</form>
+	</li>
+
+</ul>	</div>
+<div class="commentbar">
+		
+<!-- You can start editing here. -->
+
+<div class="comments">
+	<ul>
+
+<li class="widget">
+<h2>
+3 Comments &darr;</h2>
+</li>
+
+
+	
+			
+		<li>
+			<p>
+				<h3>1. An</h3>
+				<p class="meta">Jan 26, 2010 at 7:31 pm			</p>
+
+			<div class="entry">
+				<p>Finally, the true story!!!!<br />
+Still impressed <img src='http://ospublish.constantvzw.org/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' />  and very greatful for this wonderful tool. XX</p>
+ 
+							</div>
+
+		</li>
+		
+			
+		<li>
+			<p>
+				<h3>2. <a href='http://identi.ca/nitrofurano' rel='external nofollow' class='url'>nitrofurano</a></h3>
+				<p class="meta">Jan 31, 2010 at 11:18 pm			</p>
+
+			<div class="entry">
+				<p>About scripting, and for pixel-art lovers, GrafX2 project opened a competition for Lua scripts, deadline at february 17 &#8211; <a href="http://grafx2.googlecode.com" rel="nofollow">http://grafx2.googlecode.com</a></p>
+ 
+							</div>
+
+		</li>
+		
+			
+		<li>
+			<p>
+				<h3>3. <a href='http://www.adashboard.org/?p=411' rel='external nofollow' class='url'>Adashboard (for fiction) - Openb♥♥r Schrijver</a></h3>
+				<p class="meta">Feb 9, 2010 at 11:20 am			</p>
+
+			<div class="entry">
+				<p>[...] De catalogus is het resultaat van een experiment met Open Office, een dagdagelijks digitaal schrijfgereedschap. Met behulp van een serie computerscripts produceerden de grafisten van het ontwerpcollectief Open Source Publishing (O S P) de verschillende stijlcombinaties waaruit je kan kiezen. Alle gebruikte fonts zijn ontwikkeld door de grafisten zelf, en zo is deze staalkaart ook een letterproef. Hier vind je alle uitleg en een handleiding. [...]</p>
+ 
+							</div>
+
+		</li>
+		
+			
+	</ul>
+		
+	
+
+	<!-- Comment Form -->
+		
+		
+			<h3>Leave a Comment</h3>
+			<form action="http://ospublish.constantvzw.org/wp-comments-post.php" method="post" id="comment_form">
+			
+			
+							<label for="author">Name</label><input type="text" name="author" id="author" value="" tabindex="1" />
+				<label for="email">e-mail</label><input type="text" name="email" id="email" value="" tabindex="2" />
+				<label for="url">Website</label><input type="text" name="url" id="url" value="" tabindex="3" />
+							<!--<p><small><strong>XHTML:</strong> You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </small></p>-->
+			
+				<label for="comment">
+				Comment</label><textarea name="comment" id="comment" rows="8" tabindex="4"></textarea>
+			
+				
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="238cdc32b8" /></p><div id="trymath_cont">
+ <p>
+  <label for="trymath">
+    If you are human, solve the math-challenge below and enter the answer here:
+  </label>
+  <input type="text" name="trymath" id="trymath" />
+ <pre>  _____      _      __ 
+ | ____|  /\| |/\  /_ |
+ | |__    \ ` ' /   | |
+ |___ \  |_     _|  | |
+  ___) |  / , . \   | |
+ |____/   \/|_|\/   |_|
+                       
+                       
+</pre>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+//for( i = 0; i < document.forms.length; i++ ) {
+//	if( typeof(document.forms[i].trymath) != 'undefined' ) {
+//		commentForm = document.forms[i].comment.parentNode;
+//		break;
+//	}
+//}
+//var commentArea = commentForm.parentNode;
+//var captchafrm = document.getElementById("trymath_cont");
+//commentArea.insertBefore(captchafrm, commentForm);
+//commentArea.trymath.size = commentArea.author.size;
+//commentArea.trymath.className = commentArea.author.className;
+function insertAfter (referenceNode, newNode) {
+  referenceNode.parentNode.insertBefore (newNode, referenceNode.nextSibling);
+}
+var captchafrm = document.getElementById("trymath_cont");
+var url = document.getElementById ('url');
+if (url != undefined) {
+  insertAfter (url, captchafrm);
+}
+//]]>
+</script>
+			
+					<input name="submit" type="submit" id="submit" src="http://ospublish.constantvzw.org/wp-content/themes/osp/images/submit_comment.gif" tabindex="5" value="Submit" />
+					<input type="hidden" name="comment_post_ID" value="3797" />
+				
+	
+			</form>
+
+		
+</div><!--comments-->
+	</div>	
+	</div>
+
+	<div id="footer">
+		<p>Powered by <a href="http://constantvzw.org">Constant</a> &middot; Unless otherwise noticed, all content available under a <a href="http://artlibre.org/licence/lal/en/">Free Art Licence</a></p>
+		<script type='text/javascript' src='http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/lib/jquery.cycle.all.min.js?ver=2.7.3'></script>
+<script type='text/javascript' src='http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/lib/portfolio-slideshow.js?ver=1.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {
+	ajax_url: "http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/wp-polls.php",
+	text_wait: "Your last request is still being processed. Please wait a while ...",
+	text_valid: "Please choose a valid poll answer.",
+	text_multiple: "Maximum number of choices allowed: ",
+	show_loading: "1",
+	show_fading: "1"
+};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/polls-js.js?ver=2.50'></script>
+<script type="text/javascript">/* <![CDATA[ */var portfolioSlideshowOptions = {psHash: 'true',psLoader: 'false'};/* ]]> */</script>	
+		<!-- Start of StatCounter Code -->
+		<script type="text/javascript" language="javascript">
+		var sc_project=2602710; 
+		var sc_invisible=0; 
+		var sc_partition=25; 
+		var sc_security="a6dedaff"; 
+		</script>
+		<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c26.statcounter.com/counter.php?sc_project=2602710&java=0&security=a6dedaff&invisible=0" alt="free hit counter" border="0"></a> </noscript>
+		<!-- End of StatCounter Code -->
+	</div><!--footer-->
+
+</div><!--container-->
+
+</body>
+</html>

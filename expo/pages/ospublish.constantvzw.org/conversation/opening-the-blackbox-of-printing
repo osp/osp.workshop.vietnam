@@ -1,0 +1,296 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	<title>  Opening the blackbox of printing</title>
+	
+	<meta name="generator" content="WordPress 3.0.5" /> <!-- leave this for stats -->
+	
+	<link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/themes/osp/style.css" type="text/css" media="screen" />
+
+	<link rel="alternate" type="application/rss+xml" title="OSP RSS Feed" href="http://ospublish.constantvzw.org/feed" />
+	<link rel="pingback" href="http://ospublish.constantvzw.org/xmlrpc.php" />
+
+	<link rel="icon" type="image/gif" href="http://ospublish.constantvzw.org/wp-content/uploads/frog.gif">
+
+	<link rel="alternate" type="application/rss+xml" title="OSP &raquo; Opening the blackbox of printing Comments Feed" href="http://ospublish.constantvzw.org/conversation/opening-the-blackbox-of-printing/feed" />
+<script src="http://simile.mit.edu/ajax/api/simile-ajax-api.js" type="text/javascript"></script><script src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" type="text/javascript"></script><link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/plugins/wp-simile-timeline/data/custom.css" type="text/css" />
+<link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/plugins/wp-simile-timeline/data/timeline.css.php" type="text/css" />
+<link rel='stylesheet' id='wp-polls-css'  href='http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/polls-css.css?ver=2.50' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js?ver=1.4.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ospublish.constantvzw.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ospublish.constantvzw.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='OSP' href='http://ospublish.constantvzw.org' />
+<link rel='start' title='Ok, it is time now.' href='http://ospublish.constantvzw.org/news/is-it-possible' />
+<link rel='prev' title='Adjustment of a bone under the skin' href='http://ospublish.constantvzw.org/type/adjustment-of-a-bone-under-the-skin' />
+<link rel='next' title='Pelgrimage to Pragma' href='http://ospublish.constantvzw.org/tools/pelgrimage-to-pragma' />
+<meta name="generator" content="WordPress 3.0.5" />
+<link rel='canonical' href='http://ospublish.constantvzw.org/conversation/opening-the-blackbox-of-printing' />
+<link rel='shortlink' href='http://ospublish.constantvzw.org/?p=3041' />
+
+	<!-- Portfolio Slideshow-->
+	<link rel="stylesheet" type="text/css" href="http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/portfolio-slideshow.css?ver=1.1.2" />
+	<noscript><link rel="stylesheet" type="text/css" href="http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/portfolio-slideshow-noscript.css?ver=1.1.2" /></noscript>
+	<script type="text/javascript">/* <![CDATA[ */var psTimeout = new Array(); var psTrans =  new Array(); var psSpeed =  new Array(); var psNoWrap =  new Array();/* ]]> */</script>
+	<!--//Portfolio Slideshow-->
+			<style type="text/css">
+						ol.footnotes li {list-style-type:decimal;}
+						ol.footnotes{font-size:0.8em; color:#666666;}		</style>
+		<style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+</style>
+<!-- Wordpress Popular Posts v2.1.4 -->
+<script type="text/javascript" charset="utf-8">
+    /* <![CDATA[ */				
+	jQuery.post('http://ospublish.constantvzw.org/wp-admin/admin-ajax.php', {action: 'wpp_update', token: 'f81a523d34', id: 3041});
+    /* ]]> */
+</script>
+<!-- End Wordpress Popular Posts v2.1.4 -->
+            
+<!-- Wordpress Popular Posts v2.1.4 -->
+<link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/plugins/wordpress-popular-posts/style/wpp.css" type="text/css" media="screen" />
+<!-- End Wordpress Popular Posts v2.1.4 -->
+
+</head>
+<body>
+
+<div id="container">
+
+<div id="masthead">
+
+
+	<h1><a href="http://ospublish.constantvzw.org" title="Home">OSP</a><a href="http://en.wikipedia.org/wiki/Tardigrada" class="star" title="Tardigrade"><img src="http://ospublish.constantvzw.org/wp-content/themes/osp/images/bear_3.jpg"></a>
+
+
+</h1>
+
+	<h2>Open Source Publishing &#8211; Design Tools For Designers</h2>
+</div><!--masthead-->
+
+<!--<div id="head_bckgr"><img src="http://ospublish.constantvzw.org/wp-content/themes/osp/images/title.jpg"></a></div>-->
+
+		<ul id="subnav"><li><a href="http://ospublish.constantvzw.org">Home</a></li><li class="page_item page-item-2"><a href="http://ospublish.constantvzw.org/about" title="About">About</a></li>
+<li class="page_item page-item-83"><a href="http://ospublish.constantvzw.org/archives" title="Archives">Archives</a></li>
+<li class="page_item page-item-241"><a href="http://ospublish.constantvzw.org/contact" title="Contact">Contact</a></li>
+<li class="page_item page-item-4838"><a href="http://ospublish.constantvzw.org/library" title="Library">Library</a></li>
+<li class="page_item page-item-81"><a href="http://ospublish.constantvzw.org/links" title="Links">Links</a></li>
+<li class="page_item page-item-938"><a href="http://ospublish.constantvzw.org/tags" title="Tags">Tags</a></li>
+<li><a href="/recipes">Recipes</a></li><li><a href="/image">Snapshots</a></li><li><a href="/works">Works</a></li><li><a href="/foundry">Foundry</a></li></ul>
+
+	<ul id="nav">
+			<li class="cat-item cat-item-18"><a href="http://ospublish.constantvzw.org/category/conversation" title="OSP converses, talks with, interviews.">Conversations</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://ospublish.constantvzw.org/category/downloads" title="Our foundry and source repository. A list of digital files.">Downloads</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://ospublish.constantvzw.org/category/education" title="OSP teaches and learns.">Education</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://ospublish.constantvzw.org/category/live" title="OSP shares findings. Prints and parties. Public appearances.">Live</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://ospublish.constantvzw.org/category/news" title="Fresh and new for and at OSP.">News</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://ospublish.constantvzw.org/category/texts" title="Library. Texts we like, texts we write.">Texts</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://ospublish.constantvzw.org/category/tools" title="Tools for work and reflection. Not always digital.">Tools</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://ospublish.constantvzw.org/category/type" title="Typography to write and design with.">Type</a>
+</li>
+	</ul>
+	<div id="content_box">
+		<div id="left_side">			
+					
+		<div class="navigation">
+	<span class="previous">&laquo; <a href="http://ospublish.constantvzw.org/type/adjustment-of-a-bone-under-the-skin" rel="prev">Adjustment of a bone under the skin</a> </span>
+	<span class="next"><a href="http://ospublish.constantvzw.org/tools/pelgrimage-to-pragma" rel="next">Pelgrimage to Pragma</a> &raquo;</span>
+</div><!--navigation-->			
+	<div class="wide_post">
+		<div class="post">
+			<h1>Opening the blackbox of printing</h1>
+			<p class="meta"><a href="http://ospublish.constantvzw.org/category/conversation" title="View all posts in Conversations" rel="category tag">Conversations</a> &middot; June 27th, 2009 &middot;  <a href="http://ospublish.constantvzw.org/author/pierre/" title="Posts by Pierre">Pierre</a>, and <a href="http://ospublish.constantvzw.org/author/femke/" title="Posts by Femke">Femke</a></p>
+			<div class="entry">
+				<p>When we began to think about how to establish a more rich and warm collaboration with printers after the cold alerts we experienced during OSP production, Georges Charlier&#8217;s appetite for research and openness to exotic solutions reappeared in Pierre&#8217;s mind. And since we are preparing some new books, it was time for an update on his approach.</p>
+<p>Georges Charlier is the passionate owner of pre-press, printing and publishing house <strong>Salto</strong>. He lives and works in Ulbeek, Limburg (B) where he restores a former brewery, and transforms it into a platform for the production and conception of extraordinary publications.</p>
+<p><img src="http://ospublish.constantvzw.org/wp-content/uploads/ulbeek-400x300.jpg" alt="ulbeek" title="ulbeek" width="400" height="300" class="alignright size-medium wp-image-3089" /><br />
+<span id="more-3041"></span><br />
+<strong>Every printed book is an original</strong><br />
+On this mornings&#8217; motorway road to Campine, Pierre remembers for Femke his first (and only) meeting with Georges Charlier, around 10 years earlier. <a href="http://www.fremok.org/site.php?type=P&#038;id=56">Thierry Van Hasselt</a>, comics author and publisher, had spot books outputted by a fantastic printer, that built a model printshop on the border of Belgium and the Netherlands, near the Meuse, in a haunted park. This man would be able to provide extraordinary color separation and printing quality, maybe the best in the world&#8230; Thierry and me felt they needed this kind of quality in order to reproduce the subtle greasy drawings in <em>Gloria Lopez</em>, Thierry&#8217;s book they were working on at the time. Follows a fever meeting and tour by former photographer Georges through the whole chain he has built: a repro-table with natural light and Nasa photo sensor, to avoid the brutal lighting of hi-res scanners (too high contrast); ultra high care color separation with in-house software recipes; exotic screening with an optimised solution of half 600 lpi and half stochastic rasterization and luxurious printing, combining warm grey, transparent and an opaque black &#8216;skeleton&#8217; to match the matte quality of a litho crayon. </p>
+<p>Far from the kind of glitter fireworks printers usually send us as new year&#8217;s eve auto-promotion, this exceptional person was convinced  that every book, even in large scale print run, is an original, <em>the</em> original. And that every stage in the process is a step to achieve the final and best result in the hands of the viewer, or user. A statement we 100% shared for the contemporary comics like Fréon was publishing. A few weeks after, Thierry literally lived there on the machine and an impressive volume was produced.</p>
+<p><strong>The tunnel of production</strong><br />
+Today Georges Charlier explains how he felt frustrated by the tunnel view approach to much contemporary printing workflows. The effect of ISO-standardization might be that overall printing quality has increased, but often there is not much space for experimentation and above all <em>specific</em> quality. &#8220;<em>In the United States, color specialist became known as agitators, as troublemakers. In the interest of survival, the printing business tries to streamline the process from digital file to a printed product as much as possible</em>&#8221;</p>
+<p><strong>Printer without printshop</strong><br />
+It might be the result of very practical and economical constraints, but it does not come as a surprise that Georges habitually uses the presses of his colleagues rather than his own printshop. Out of necessity, he has learned how to practice high quality printing without attaching himself to his own machine park. The experience of traveling between materials and setups has made him aware of the differences between presses of various makes. As a way to enforce a serious conversation with press manufacturers, he eventually made up his own &#8216;acid test&#8217;. A collection of seemingly simple black and white images enables the analyses of radical shifts in quality between machines. We imagined the tense silence in the Heidelberg boardroom when he unfolded his test sheets, the complete management had gathered for the occasion. He printed the same sheet not only on the respectable German presses but also on a Roland, a Mitshibishu, a Komori and a KBA. Afterwards, in the corridor, the staff of engineers thanked him for pointing out to their bosses that even at Heidelberg there was room for improvement.</p>
+<p><strong>Material knowledge</strong><br />
+On multiple levels, our conversation touches on the way material and knowledge, objects and software are intimately interwoven. It has motivated Georges to develop his own tools, and also his own paper. After an intense collaboration with the technical staff of a small paper factory in The Netherlands, he managed to develop a paper fit to his needs: a slightly ivory, matte but silky surface which supports the reproduction of a series of photographs by Bauhaus photographer Moï Ver. But the company went bankrupt, and although he still has access to the recipe, without their expertise and equipment he will not be able to produce the same quality paper ever again.</p>
+<p><strong>Spectral colors</strong><br />
+&#8220;<em>I met likeminded people like in the Netherlands, and we said to each other: let’s drop the old Lab color system, and try instead to build a new spectral system</em>&#8220;. Georges is busy developing color systems that are not limited to the traditional 3, 4, 6 or 7 values, but that are based on various separation operations that depend on what we want to store and retrieve on paper.</p>
+<p>When the <a href="http://www.colour.org/">CIE Commission internationale de l&#8217;éclairage</a> begin to build the RGB color models in the 1920&#8242;s, it made sense (and fit with the mathematical computation power available at the time), to simulate the regular way our eyes simplify, with the help of three kinds of cones, infinite physical color wavelengths into three color values, as an event, before they are quantified and evaluated by our brain. These models were developped using <a href="http://en.wikipedia.org/wiki/CIE_1931_color_space">some statistical averaging</a> between samples of observers. And these subjective observations were than normalized to build a model that pinpoints specific and measurable wavelengths.</p>
+<p>So the perception of these observers ended up in two overlapping simulations at work when we look at printed pictures: the one their cones have provided, and the result of the combination of three different inks chosen for their direct relation with the wavelengths that please these same cones. This synchronized simplification helped further models based on RGB (notably XYZ and Lab) and paved the way for the current ISO separation model used widely for most of the quadrichromatic printed images nowadays.</p>
+<p>But we lost a diversity of color events in that double reduction: mostly all saturated colors in between, and colors that look the same under certain conditions but not under others (a phenomenon linked to <a href="http://en.wikipedia.org/wiki/Metamerism_(color)">metamerism</a>). And if we experience everyday marvelous and rich color <strong>events</strong> in our brains, all different depending on our sex and origin, we have also progressively standardised the way we perceive printed color separation and the amount of colorised experiences we&#8217;ve acknowledged not to find in there.</p>
+<p>Georges&#8217; openness to rethink the color model will not only benefit color reproduction, but also in another field of his activity, the archiving of sensible material. And it&#8217;s use can even be enlarged with the archiving of information about actual pigments in the file format that stores the full spectral data of an image.</p>
+<p><img src="http://ospublish.constantvzw.org/wp-content/uploads/DSC03256-300x400.jpg" alt="White gloves" title="White gloves" width="300" height="400" class="alignnone size-medium wp-image-3068" /></p>
+<p><strong>Explorations</strong><br />
+He is finishing a special edition of images from the archives of the <a href="http://www.freezeframe.ac.uk/gallery/gallery">Scott Polar Research Institute</a>. He puts on white gloves and shows us 5 cahiers of photographs taken by Herbert Ponting. The images document the catastrophic Terra Nova expedition undertaken by Robert Falcon Scott in 1912. Duplicates rather than reproductions, these contemporary <a href="http://en.wikipedia.org/wiki/Platinotype">platinotypes</a> are meant to survive their originals (assumed life span ca. 1000 years). Their exceptionally refined quality is accentuated by the bristle character of their subject matter. Scott and their party never returned from the Terra Nova expedition. But the penetrating gaze of those adventurous men, dressed in layers of self repaired clothes, will miraculously survive after being photographed, archived, scanned, digitized, described, retouched and finally printed in three monochromes on acid free paper.</p>
+<p><img src="http://ospublish.constantvzw.org/wp-content/uploads/captain-scott_1299075c-400x250.jpg" alt="PD*27005129" title="PD*27005129" width="400" height="250" class="alignright size-medium wp-image-3075" /><br />
+<small>Captain Scott in his cabin</small></p>
+							</div>
+			<p class="meta">Tags:  &middot; <a href="http://ospublish.constantvzw.org/tag/colors" rel="tag">Colors</a>, <a href="http://ospublish.constantvzw.org/tag/printing-publishing" rel="tag">Printing + Publishing</a>, <a href="http://ospublish.constantvzw.org/tag/tools" rel="tag">Tools</a></p>
+		</div>
+			<div class="clear"></div>
+		
+				</div><!--wide_post-->
+</div><!--left_side-->
+
+<div class="sidebar">
+		<li class="widget">
+<h2>Related Posts</h2>
+<ul class="related_post"><li><a href="http://ospublish.constantvzw.org/news/from-cage-to-pipeline" title="from cage to pipeline">from cage to pipeline</a></li><li><a href="http://ospublish.constantvzw.org/news/pre-announcement-printpixel-conference" title="Pre-announcement: print/pixel conference">Pre-announcement: print/pixel conference</a></li><li><a href="http://ospublish.constantvzw.org/news/the-most-useful-book" title="The most useful book">The most useful book</a></li><li><a href="http://ospublish.constantvzw.org/news/paper-view-assembly" title="PA/PER VIEW: Assembly">PA/PER VIEW: Assembly</a></li><li><a href="http://ospublish.constantvzw.org/news/the-first-months-of-2011" title="The first months of 2011">The first months of 2011</a></li><li><a href="http://ospublish.constantvzw.org/news/chaine-typo-graphique-ouverte" title="Chaîne typo-graphique ouverte">Chaîne typo-graphique ouverte</a></li><li><a href="http://ospublish.constantvzw.org/news/446-nancy-a5" title="446 Nancy A5">446 Nancy A5</a></li></ul></li>	</div>
+<div class="r_sidebar">
+		<ul>
+	<li class="widget">
+		<form method="get" id="search_form" action="http://ospublish.constantvzw.org/">
+	<input type="text" class="search_input" value="Search" name="s" id="s" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+	<input type="hidden" id="searchsubmit" value="Search" />
+</form>
+	</li>
+
+</ul>	</div>
+<div class="commentbar">
+		
+<!-- You can start editing here. -->
+
+<div class="comments">
+	<ul>
+
+<li class="widget">
+<h2>
+1 Comment &darr;</h2>
+</li>
+
+
+	
+			
+		<li>
+			<p>
+				<h3>1. <a href='http://identi.ca/notice/5825367' rel='external nofollow' class='url'>nitrofurano's status on Sunday, 28-Jun-09 11:07:59 UTC - Identi.ca</a></h3>
+				<p class="meta">Jun 28, 2009 at 1:08 pm			</p>
+
+			<div class="entry">
+				<p>[...] @ossington @joncruz &#8211; last post from #ConstantVZW website may interest you &#8211; <a href="http://is.gd/1gRjP" rel="nofollow">http://is.gd/1gRjP</a> [...]</p>
+ 
+							</div>
+
+		</li>
+		
+			
+	</ul>
+		
+	
+
+	<!-- Comment Form -->
+		
+		
+			<h3>Leave a Comment</h3>
+			<form action="http://ospublish.constantvzw.org/wp-comments-post.php" method="post" id="comment_form">
+			
+			
+							<label for="author">Name</label><input type="text" name="author" id="author" value="" tabindex="1" />
+				<label for="email">e-mail</label><input type="text" name="email" id="email" value="" tabindex="2" />
+				<label for="url">Website</label><input type="text" name="url" id="url" value="" tabindex="3" />
+							<!--<p><small><strong>XHTML:</strong> You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </small></p>-->
+			
+				<label for="comment">
+				Comment</label><textarea name="comment" id="comment" rows="8" tabindex="4"></textarea>
+			
+				
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="72e6c17a85" /></p><div id="trymath_cont">
+ <p>
+  <label for="trymath">
+    If you are human, solve the math-challenge below and enter the answer here:
+  </label>
+  <input type="text" name="trymath" id="trymath" />
+ <pre> _____  _____      __ ______
+|____ ||  ___|    / /|___  /
+    / /|___ \    / /    / / 
+    \ \    \ \  / /    / /  
+.___/ //\__/ / / /   ./ /   
+\____/ \____/ /_/    \_/    
+                            
+                            
+</pre>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+//for( i = 0; i < document.forms.length; i++ ) {
+//	if( typeof(document.forms[i].trymath) != 'undefined' ) {
+//		commentForm = document.forms[i].comment.parentNode;
+//		break;
+//	}
+//}
+//var commentArea = commentForm.parentNode;
+//var captchafrm = document.getElementById("trymath_cont");
+//commentArea.insertBefore(captchafrm, commentForm);
+//commentArea.trymath.size = commentArea.author.size;
+//commentArea.trymath.className = commentArea.author.className;
+function insertAfter (referenceNode, newNode) {
+  referenceNode.parentNode.insertBefore (newNode, referenceNode.nextSibling);
+}
+var captchafrm = document.getElementById("trymath_cont");
+var url = document.getElementById ('url');
+if (url != undefined) {
+  insertAfter (url, captchafrm);
+}
+//]]>
+</script>
+			
+					<input name="submit" type="submit" id="submit" src="http://ospublish.constantvzw.org/wp-content/themes/osp/images/submit_comment.gif" tabindex="5" value="Submit" />
+					<input type="hidden" name="comment_post_ID" value="3041" />
+				
+	
+			</form>
+
+		
+</div><!--comments-->
+	</div>	
+	</div>
+
+	<div id="footer">
+		<p>Powered by <a href="http://constantvzw.org">Constant</a> &middot; Unless otherwise noticed, all content available under a <a href="http://artlibre.org/licence/lal/en/">Free Art Licence</a></p>
+		<script type='text/javascript' src='http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/lib/jquery.cycle.all.min.js?ver=2.7.3'></script>
+<script type='text/javascript' src='http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/lib/portfolio-slideshow.js?ver=1.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {
+	ajax_url: "http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/wp-polls.php",
+	text_wait: "Your last request is still being processed. Please wait a while ...",
+	text_valid: "Please choose a valid poll answer.",
+	text_multiple: "Maximum number of choices allowed: ",
+	show_loading: "1",
+	show_fading: "1"
+};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/polls-js.js?ver=2.50'></script>
+<script type="text/javascript">/* <![CDATA[ */var portfolioSlideshowOptions = {psHash: 'true',psLoader: 'false'};/* ]]> */</script>	
+		<!-- Start of StatCounter Code -->
+		<script type="text/javascript" language="javascript">
+		var sc_project=2602710; 
+		var sc_invisible=0; 
+		var sc_partition=25; 
+		var sc_security="a6dedaff"; 
+		</script>
+		<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c26.statcounter.com/counter.php?sc_project=2602710&java=0&security=a6dedaff&invisible=0" alt="free hit counter" border="0"></a> </noscript>
+		<!-- End of StatCounter Code -->
+	</div><!--footer-->
+
+</div><!--container-->
+
+</body>
+</html>

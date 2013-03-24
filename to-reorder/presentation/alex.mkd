@@ -1,0 +1,39 @@
+department 21
+20 departements each one is specialized:
+graphic design, motion design etc.
+- organised by the student for the student.
+- interdisciplinary
+previous ws include:
+- how to build a lamp for recycled material
+- how to compose a text in 10 steps
+- archiving 
+
+invited for scribus
+scribus: dtp software
+traditional approche to visual design
+we were interested to show another aspect of it
+scripting capabilities: you can control the whole programm with commands.
+opens up new possibilities for design:
+generative design:
+- creating a newspaper (semi-)automatically from RSS feeds
+- creating visualizations
+...
+
+irc: a tool we use to collaborate
+made a bridge between scribus and irc using python.
+Quite simple, that's the beauty of open source/free software
+
+build your own tool from existing open source tools
+
+
+- Gill sans
+3 versions:
+- from eric gill sketwhes
+- from lead type
+- from a digital typeface turrned into bitmap and then re-scanned
+
+
+
+
+
+

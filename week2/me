@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 10000 10000"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt Svg Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Sans Serif" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L-1,0 L-1,-1 L0,-1 L0,0"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="time" font-size="23" font-weight="100" font-style="italic" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="71" y="547" font-family="time" font-size="23" font-weight="100" font-style="italic" 
+ >i am Dat</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="79" y="681" font-family="time" font-size="23" font-weight="100" font-style="italic" 
+ >using LiteralDraw to design it</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="81" y="734" font-family="time" font-size="23" font-weight="100" font-style="italic" 
+ >it is open source software</text>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M224,389"/>
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="time" font-size="23" font-weight="100" font-style="italic" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M224,389 L224,500 L300,500 L300,486 L238,486 L238,389 L224,389 M319,390 L333,390 L333,500 L319,500 L319,390 M356,500 L356,390 C393,389 412,410 393,433 L359,433 C393,434 412,465 395,498 L356,499 M422,390 L424,499 L438,500 L437,456 L451,456 L477,501 L491,500 L469,454 C482,452 497,418 467,387 L423,390 M506,387 L510,494 L577,494 L576,473 L526,474 L522,451 L576,448 L574,425 L523,426 L522,409 L574,401 L575,380 L507,384 M438,406 L437,435 C455,434 465,418 455,404 M365,406 L364,422 C375,423 388,416 364,405 M367,449 L366,483 C381,485 391,472 379,452 M432,26 L430,200 L513,202 M21,23"/>
+</g>
+
+<g fill="#00ff00" fill-opacity="1" stroke="#ff0000" stroke-opacity="1" stroke-width="12" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="time" font-size="23" font-weight="100" font-style="italic" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M21,23 L18,219 M21,23"/>
+</g>
+
+<g fill="#424df5" fill-opacity="1" stroke="#ff0000" stroke-opacity="1" stroke-width="12" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="time" font-size="23" font-weight="100" font-style="italic" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M21,23 C82,25 157,45 18,112 M18,112"/>
+</g>
+
+<g fill="#000038" fill-opacity="1" stroke="#ff0000" stroke-opacity="1" stroke-width="12" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="time" font-size="23" font-weight="100" font-style="italic" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M18,112 C151,112 191,175 15,220 M180,31"/>
+</g>
+
+<g fill="#384300" fill-opacity="1" stroke="#ff0000" stroke-opacity="1" stroke-width="12" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="time" font-size="23" font-weight="100" font-style="italic" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M180,31 C202,208 302,206 301,26 "/>
+</g>
+
+<g fill="#384300" fill-opacity="1" stroke="#172238" stroke-opacity="1" stroke-width="12" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="time" font-size="23" font-weight="100" font-style="italic" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M382,28 L378,198"/>
+</g>
+
+<g fill="#384300" fill-opacity="1" stroke="#2d435a" stroke-opacity="1" stroke-width="12" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="time" font-size="23" font-weight="100" font-style="italic" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M556,21 L674,21 M612,23 L604,192 M257,280 C277,253 299,280 260,321 M257,280"/>
+</g>
+
+<g fill="#ff0000" fill-opacity="1" stroke="#2d435a" stroke-opacity="1" stroke-width="12" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="time" font-size="23" font-weight="100" font-style="italic" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M257,280 C277,253 190,279 265,319 M207,332 L332,251"/>
+</g>
+</g>
+</svg>

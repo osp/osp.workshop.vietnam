@@ -1,0 +1,39 @@
+Presentation OSP
+================
+
+showing the picture. 
+
+- programmer (ivan...)
+- cartographer (Nicolas...)
+- illustrators (harrisson...)
+- Designers
+- Artists (Femke)
+
+john:
+- thesis : generative type setting
+- typeset: change it live
+
+# Designing by text
+Alex:
+- please computer make me design
+
+# Stéphanie:
+- scribus @ rca
+
+# The long tail (untitled)
+Pierre Marchand:
+- DLF + NANCY + FONZIE + GUILTY + VJ13
+
+# font + versionning
+Pierre H:
+- cover tot later
+- hammerfont
+  - Crieeks
+  - Din
+    - Din Institute
+    - Antoine + lowercase + sketches.
+
+#   
+Perspective... git repository.
+
+

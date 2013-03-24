@@ -1,0 +1,319 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	<title>  Conversion is costly</title>
+	
+	<meta name="generator" content="WordPress 3.0.5" /> <!-- leave this for stats -->
+	
+	<link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/themes/osp/style.css" type="text/css" media="screen" />
+
+	<link rel="alternate" type="application/rss+xml" title="OSP RSS Feed" href="http://ospublish.constantvzw.org/feed" />
+	<link rel="pingback" href="http://ospublish.constantvzw.org/xmlrpc.php" />
+
+	<link rel="icon" type="image/gif" href="http://ospublish.constantvzw.org/wp-content/uploads/frog.gif">
+
+	<link rel="alternate" type="application/rss+xml" title="OSP &raquo; Conversion is costly Comments Feed" href="http://ospublish.constantvzw.org/news/conversion-is-costly/feed" />
+<script src="http://simile.mit.edu/ajax/api/simile-ajax-api.js" type="text/javascript"></script><script src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" type="text/javascript"></script><link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/plugins/wp-simile-timeline/data/custom.css" type="text/css" />
+<link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/plugins/wp-simile-timeline/data/timeline.css.php" type="text/css" />
+<link rel='stylesheet' id='wp-polls-css'  href='http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/polls-css.css?ver=2.50' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js?ver=1.4.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ospublish.constantvzw.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ospublish.constantvzw.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='OSP' href='http://ospublish.constantvzw.org' />
+<link rel='start' title='Ok, it is time now.' href='http://ospublish.constantvzw.org/news/is-it-possible' />
+<link rel='prev' title='interview at the airport' href='http://ospublish.constantvzw.org/news/interview-at-the-airport' />
+<link rel='next' title='Les enfants du transparent' href='http://ospublish.constantvzw.org/news/les-enfants-du-transparent' />
+<meta name="generator" content="WordPress 3.0.5" />
+<link rel='canonical' href='http://ospublish.constantvzw.org/news/conversion-is-costly' />
+<link rel='shortlink' href='http://ospublish.constantvzw.org/?p=2603' />
+
+	<!-- Portfolio Slideshow-->
+	<link rel="stylesheet" type="text/css" href="http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/portfolio-slideshow.css?ver=1.1.2" />
+	<noscript><link rel="stylesheet" type="text/css" href="http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/portfolio-slideshow-noscript.css?ver=1.1.2" /></noscript>
+	<script type="text/javascript">/* <![CDATA[ */var psTimeout = new Array(); var psTrans =  new Array(); var psSpeed =  new Array(); var psNoWrap =  new Array();/* ]]> */</script>
+	<!--//Portfolio Slideshow-->
+			<style type="text/css">
+						ol.footnotes li {list-style-type:decimal;}
+						ol.footnotes{font-size:0.8em; color:#666666;}		</style>
+		<style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+</style>
+<!-- Wordpress Popular Posts v2.1.4 -->
+<script type="text/javascript" charset="utf-8">
+    /* <![CDATA[ */				
+	jQuery.post('http://ospublish.constantvzw.org/wp-admin/admin-ajax.php', {action: 'wpp_update', token: 'f81a523d34', id: 2603});
+    /* ]]> */
+</script>
+<!-- End Wordpress Popular Posts v2.1.4 -->
+            
+<!-- Wordpress Popular Posts v2.1.4 -->
+<link rel="stylesheet" href="http://ospublish.constantvzw.org/wp-content/plugins/wordpress-popular-posts/style/wpp.css" type="text/css" media="screen" />
+<!-- End Wordpress Popular Posts v2.1.4 -->
+
+</head>
+<body>
+
+<div id="container">
+
+<div id="masthead">
+
+
+	<h1><a href="http://ospublish.constantvzw.org" title="Home">OSP</a><a href="http://en.wikipedia.org/wiki/Tardigrada" class="star" title="Tardigrade"><img src="http://ospublish.constantvzw.org/wp-content/themes/osp/images/bear_7.jpg"></a>
+
+
+</h1>
+
+	<h2>Open Source Publishing &#8211; Design Tools For Designers</h2>
+</div><!--masthead-->
+
+<!--<div id="head_bckgr"><img src="http://ospublish.constantvzw.org/wp-content/themes/osp/images/title.jpg"></a></div>-->
+
+		<ul id="subnav"><li><a href="http://ospublish.constantvzw.org">Home</a></li><li class="page_item page-item-2"><a href="http://ospublish.constantvzw.org/about" title="About">About</a></li>
+<li class="page_item page-item-83"><a href="http://ospublish.constantvzw.org/archives" title="Archives">Archives</a></li>
+<li class="page_item page-item-241"><a href="http://ospublish.constantvzw.org/contact" title="Contact">Contact</a></li>
+<li class="page_item page-item-4838"><a href="http://ospublish.constantvzw.org/library" title="Library">Library</a></li>
+<li class="page_item page-item-81"><a href="http://ospublish.constantvzw.org/links" title="Links">Links</a></li>
+<li class="page_item page-item-938"><a href="http://ospublish.constantvzw.org/tags" title="Tags">Tags</a></li>
+<li><a href="/recipes">Recipes</a></li><li><a href="/image">Snapshots</a></li><li><a href="/works">Works</a></li><li><a href="/foundry">Foundry</a></li></ul>
+
+	<ul id="nav">
+			<li class="cat-item cat-item-18"><a href="http://ospublish.constantvzw.org/category/conversation" title="OSP converses, talks with, interviews.">Conversations</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://ospublish.constantvzw.org/category/downloads" title="Our foundry and source repository. A list of digital files.">Downloads</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://ospublish.constantvzw.org/category/education" title="OSP teaches and learns.">Education</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://ospublish.constantvzw.org/category/live" title="OSP shares findings. Prints and parties. Public appearances.">Live</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://ospublish.constantvzw.org/category/news" title="Fresh and new for and at OSP.">News</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://ospublish.constantvzw.org/category/texts" title="Library. Texts we like, texts we write.">Texts</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://ospublish.constantvzw.org/category/tools" title="Tools for work and reflection. Not always digital.">Tools</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://ospublish.constantvzw.org/category/type" title="Typography to write and design with.">Type</a>
+</li>
+	</ul>
+	<div id="content_box">
+		<div id="left_side">			
+					
+		<div class="navigation">
+	<span class="previous">&laquo; <a href="http://ospublish.constantvzw.org/news/interview-at-the-airport" rel="prev">interview at the airport</a> </span>
+	<span class="next"><a href="http://ospublish.constantvzw.org/news/les-enfants-du-transparent" rel="next">Les enfants du transparent</a> &raquo;</span>
+</div><!--navigation-->			
+	<div class="wide_post">
+		<div class="post">
+			<h1>Conversion is costly</h1>
+			<p class="meta"><a href="http://ospublish.constantvzw.org/category/news" title="View all posts in News" rel="category tag">News</a> &middot; May 20th, 2009 &middot;  <a href="http://ospublish.constantvzw.org/author/lauren/" title="Posts by Lauren">Lauren</a>, and <a href="http://ospublish.constantvzw.org/author/femke/" title="Posts by Femke">Femke</a></p>
+			<div class="entry">
+				<h3>Notes from print/pixel</h3>
+<p><img src="http://ospublish.constantvzw.org/image/plog-content/thumbs/snapshots/pixelprint/large/1064-p1050471.JPG"></p>
+<p>Last week, OSP attended the print/pixel conference in Rotterdam, a two day event gathering publishers, designers, marketeers and document engineers to look at the ever shifting relation between digital and paper publishing.<sup><a href="#footnote_0_2603" id="identifier_0_2603" class="footnote-link footnote-identifier-link" title="The organisers kindly supported our trip up north.">1</a></sup></p>
+<p>For an integral report, see blog-posts by <a href="http://www.nqpaofu.com">Jouke Kleerebezem</a> and <a href="http://ariealt.net">Arie Altena</a> here: <a href="http://blog.wdka.nl/communication-in-a-digital-age">http://blog.wdka.nl/communication-in-a-digital-age</a>. Our notes are fragmentary.</p>
+<p><span id="more-2603"></span><br />
+<span class="Femke">Green</span> = <span class="Femke">Femke</span><br />
+<span class="Lauren">Red</span> = <span class="Lauren">Lauren</span></p>
+<p>“Pixels do not exist on screens only. And &#8216;print&#8217; is a statement in programming as well. Actually, we are printing pixels all the time.” <span class="Femke">Florian Cramer starts with reassuring the audience that although books will most likely never cancel websites and vice versa, designers might be underprepared for the parallel publishing of the future. </span>“Would <strong>you</strong> consider a career in e-book design?”</p>
+<p><span class="Femke">It was a bold move, to begin the conference with The Reader, an e-book device by Sony (not available yet in Belgium or The Netherlands). Marc Regeur, Product Manager New Business Sony Benelux, supplied us with slogans:</span> &#8216;Impact Through Innovation&#8217;<span class="Femke">,</span> &#8216;Electronic Ink Is The Heart of the Electronic Reader&#8217;<span class="Femke">,</span> &#8216;Proprietary Standards Are A Hindrance To The Overall Success Of The eBook&#8217; <span class="Femke">, followed by</span> &#8216;We Are Solidifying The Standard By Making The Open .epub Format Integrate Well With Adobe CS3&#8242; <span class="Femke">and</span> &#8216;We Add Value For The Consumer By Leaving Their Choices Open. We Just Point Them In The Right Direction&#8217;.<br />
+<span class="Femke">We were also reminded of Sony&#8217;s first product, the electric rice cooker.</span><sup><a href="#footnote_1_2603" id="identifier_1_2603" class="footnote-link footnote-identifier-link" title="&amp;#8220;As the war plants had closed down, there was more electricity than was needed at the time. This surplus fed Ibuka&rsquo;s desire to produce items which were needed for everyday life. The electric rice cooker, made by merely interlocking aluminum electrodes which were connected to the bottom of a wooden tub, was a primitive product. The result depended heavily on the kind of rice used and the weight of the water. Tasty rice was a rarity, as the rice cooker produced mostly undercooked or overcooked rice.&amp;#8221; http://www.sonyinsider.com/2009/03/16/one-of-sonys-first-products-a-rice-cooker/">2</a></sup> <span class="Femke">And now they bring us The Reader?<br />
+The horrifying thought of incompatible books&#8230; Amazon&#8217;s Kindle uses it&#8217;s own proprietary format, Sony has decided to work with an open format instead: .epub (we were confused at first because it was referred to as the &#8216;Adobe .epub standard&#8217;). Marc Reguer explains that </span>“Sony did not want to make the same mistake as they did in the music business”. <span class="Femke">The Reader is prepared for Digital Rights Management like any other Sony device, but customers are allowed 64 copies of each of the files they buy. Also, Sony provides public domain books on The Reader. </span>“Public domain? Well, that&#8217;s basically DRM-Free content”</p>
+<p><span class="Lauren">Afterwards Florian Cramer questions if the ebook reader offers any self-publishing possibilities. Is the consumer limited to a small selection of books? Or would it for instance be possible for students to publish a graduation catalogue as an ebook. Could people publish material for free on the internet and read them on ebooks? Florian Cramer states that it is quite ironical that in the country with such a large tradition in bookdesign there seems to be no opportunity for students to actively engage with ebooks. Reuger answers that </span> &#8220;one could publish content in a pdf, size A5 and potentially read it on an ebook. But that would involve some form of piracy. Neither can we accept student research projects into the technology of ebooks at the moment. We are not able to give people this possibility. On a global scale, The Netherlands is still a small country.&#8221; <span class="Lauren">So it seems that the technology of ebooks does have some very tight limitations in opposition of what is promised. What is the benefit for the consumer if one can only read a very tight selection (of probably only best-sellers)?</span></p>
+<p><span class="Lauren">The discussion follows with a marking question by Allessandro Ludovico. Throughout the lecture Reuger underlines the honourable effort of the Sony company by their free distribution of ebooks for schools. Ludovico challenges this idea by asking if Sony thinks about publishing old classics or important literatures </span>&#8220;As a symbolic gesture to tradition of publishing?&#8221; <span class="Lauren">Reuger answers that they would have to look at this from a case to case basis,  but that finally, </span>&#8220;it will remain the responsibility of the publisher&#8221;. <span class="Lauren">Obviously these touchy subjects demonstrate Sony&#8217;s ambiguous position vis-a-vis open formats. In fact they seem as limited as their self-acclaimed philanthropy.</span></p>
+<p><span class="Lauren">This highly critical departure is followed up by a deep investigation into the technology offered by Le-Tex for publishing ebooks. Le-Tex historically provided typesetting services, production editing and a specialist non-pdf-input. They produced an over all of 1500 pdf-based ebooks.</span></p>
+<p><span class="Femke">Gerrit Imsieke from the German &#8216;content engineering&#8217; company Le-Tex services (not a surprise that the DIN institute is on their list of clients) went into the details of the .epub format that is developed by the International Digital Publishing Forum.</span><sup><a href="#footnote_2_2603" id="identifier_2_2603" class="footnote-link footnote-identifier-link" title="&amp;#8220;The work of the IDPF will foster and promote the development of electronic publishing applications and products that will benefit creators of content, makers of reading systems and consumers.&amp;#8221; http://www.openebook.org">3</a></sup></p>
+<p><span class="Lauren">Le-Tex offers two flavors in ebook-design. A paginated and a reflowable design which is designed for small screens, visual impaired and audio-listening. As people need to be able to enlarge the type size it is not possible to use traditional page numbers and the technology demands a new treatment of the traditional book-format. This seems a challenge for designers to me. Funny that Le-Tex did not quite find a suitable solution for this problem. It becomes clear that typesetting for ebooks happens through a html+css like structure which is of course a total different treatment than the traditional typesetting profession. Here Le-Tex underscores the important possibility of interactivity supported by ebooks. By making items clickable, ebooks can be given different structures in opposition to traditional books.</span></p>
+<p><span class="Femke">Intriguing to discover this .epub standard which is in fact a salad of 15 pre-existing standards: xml, svg, css&#8230; and how the concept of the reflowable book creates a different paradigm for design. Issues such as font encoding normalization and de-hyphenization are clearly more pressing concerns for Iemseke than typographic excellence. He explains that encoding errors can only be detected visually and this makes conversion between media costly. Imsieke states that the price per page is still too high</span> “even when done by cheap students or outsourced to people in India”. <span class="Femke">When asked later, he estimates that 30% of current document engineering happens in India. A division of labour I would like to investigate further.</span></p>
+<p><span class="Femke">(Free Fonts are unmissable for e-publishing too: e-books require font embedding and  Le-Tex has therefore decided to work with Linux Libertine.)</span></p>
+<p><span class="Femke">Petr van Blokland delivers his exposé on the similarities between programming and design with the usual confidence: </span>“you should be the director of your workflow”, “you can only survive when you define” <span class="Femke">and</span> “to design a workflow means to break the iterative loop”.</p>
+<p><span class="Lauren">Blokland defines his design theory as non-linear approach which iterates through possibilities and works by exclusion.</span> &#8220;Only by actually trying out the possibilities you get closer to the answer.&#8221; <span class="Lauren">He states that </span>&#8220;for graphic designers there is too much to choose from, there is no way to find out the everbest solution. All the possibilites are there, there are just too many options.&#8221; <span class="Lauren">For Blokland a personal query and a personal opinion is the only solution. It is hard to find out the actual thread of his lentghy and meandering exposé. At first his lecture almost seems a step-by-step-help plan which solves every designers troubles. Luckily it becomes clear that for Blokland designers should enrich their personal workflow by learning the language of the tools and by engaging towards the development of own programs. This is his solution for &#8216;setting out strategies&#8217; and  &#8216;managing the option overload&#8217;. I can completely relate to his statement that</span> &#8220;after a while there is nothing more than your application allows you to do. By learning that language you can go beyond the confined space.&#8221; <span class="Lauren">A good answer to this would exactly be to learn script languages which do broaden a designer&#8217;s workflow. Blokland also raises some curiosity about his <a href="http://xierpa.com/">Xierpa</a> project which will be released soon under an open source license. An over all tool for designing tools, designing databases and much more…</span></p>
+<p><span class="Femke">Xierpa is another sophisticated workflow tool (or software). It is Python based, includes amongst others a scheduler, a bookbuilder and through an interactive visualisation, Xierpa can translate a conversation with a client directly into a database. In fact, the model IS the database.</span></p>
+<p><span class="Femke">If design is to be considered conditional, what are the kinds of conditions it proposes? When it sets its own rules &#8230; what conditions of work, what exclusion and inclusion does it produce, what relationships does it propose, what laws? I&#8217;ve been reading <em>Rule or Law</em>, an essay by Gerrit Noordzij, and try to bring up different types of conditions.</span><sup><a href="#footnote_3_2603" id="identifier_3_2603" class="footnote-link footnote-identifier-link" title="&ldquo;Tschichold (&amp;#8230;) wanted his rules to be obeyed without discussion. He addresses designers in a language for programming robots. I am not the first to observe this, but I seem to be alone in my conclusion that Tschichold&rsquo;s rules obstruct design, undermine civilization, and offend humanity.&rdquo; http://www.hyphenpress.co.uk/journal/2007/09/15/rule_or_law">4</a></sup></p>
+<p><span class="Lauren">His whole raisoné becomes clear when Blokland answers Femke&#8217;s question</span><sup><a href="#footnote_4_2603" id="identifier_4_2603" class="footnote-link footnote-identifier-link" title="&ldquo;If you automate a workflow, at what point do you think intervention is possible or even desired?&amp;#8221;">5</a></sup>. &#8220;Time can be held as a pragmatic issue when dealing with intervention. But besides that design should always be conditional. Because if it is not, than it is just production. It should always reflect a decision or a condition.&#8221;</p>
+<p><span class="Femke"><a href="http://www.opl.rit.edu">The Open Publishing Lab</a> presents a series of projects and ideas, trying to implement services that</span> “enable” <span class="Femke">self-publishing, allowing inexperienced people to</span> “share their stories”. <span class="Femke">Their strategies range from a self-publishing advisor, a social networking game to a full web-to-print solution: Page2Pub. Page2Pub is a clever FireFox extension that allows users to select any material published on line, strip and re-apply styling and than lay-out the collaged content in a pdf, templates are provided. Page2Pub collects content from the web and transforms it into  well-formatted, ad-hoc publications. Their approach is positivist, energetic and of course</span> “consistent with open source” <span class="Femke">but also strangely disinterested in both the content and the materiality of what ends up being published. Wondering what </span> “Keyhole Markup Languages” are? <span class="Femke">And whether anyone has already tried out their wonderful idea to make a MRI-scan of a closed book?</span></p>
+<p><span class="Femke">For the evening session, we move to the Orchid Room, a proper business setting to  discuss the matter with a professional perspective. We are joined by an advertising professional from Germany plus more designers and publishers.</span></p>
+<p><span class="Lauren">While the whole theme of publishing through different media is subjected to different opinions in the evening discussion, it seems quite disappointing that there is no real discussion going on. Some speakers tend to opinionate the whole discussion without really answering the urgent questions. It often ends up in frightening statements around the dominant rise of new media through new technologies (operated by the OPL lab that funnily enough contribute themselves to this evolution).</span></p>
+<p><span class="Femke">Well&#8230; you could also say that each of them try to deal with the situation at hand. It is interesting to see different responses to The Financial Crisis, from Germany, the US or The Netherlands. Whereas most participants have horror stories to tell about the demise of the publishing industry, Dutch participants seem not too impressed. Florian Cramer wonders whether</span> “this is what makes the conference avant-garde, because here in The Netherlands the bad news has not arrived yet”</p>
+<p><span class="Femke">The ease by which participants keep fantasizing about the possibilities of &#8216;de-materialized publishing&#8217; makes me nervous. I try to ask another question. What formatting is going on they think, and how could form and content remain interlinked? But it only leads to more confusion</span><sup><a href="#footnote_5_2603" id="identifier_5_2603" class="footnote-link footnote-identifier-link" title="The people from OPL think I am talking about quality standards. The next morning, we apologize to each other for the misunderstanding but before I can clarify my question, Tona Henderson suggests: &ldquo;I have been discussing your question with my colleagues and we thought that maybe we should think about a Dublin Core for design&rdquo;. That has me silent for a while, but it is actually an interesting thought!">6</a></sup> <span class="Femke">I&#8217;m than surprised to hear Alessandro Ludovico, avid collector of punk-zines, declare that content exists before (and without?) form.</span></p>
+<p><span class="Lauren">This little stir-up causes some speakers to follow up this fact by stating that it is indeed necessary to rethink the forms of liquid news. A slightly wrong side path about content being shaped by the content is soon answered by Alessandro Ludovico who states that the content stands on itself and derives its form from the medium.<br />
+Thank you, Alessandro! Finally a useful statement. While the whole discussion seemed a little dispersed a personal conclusion can be that through the rise of reflowable, liquid news, it is a designer&#8217;s responsibility to research the new publishing media in order to find useful solutions for publishing liquid news.</span></p>
+<p><img src="http://ospublish.constantvzw.org/image/plog-content/thumbs/snapshots/pixelprint/large/1063-p1050512.JPG"></p>
+<p><span class="Femke">We&#8217;re all exhausted after this but find ourselves a warm welcome in <a href="http://www.poortgebouw.nl">Het Poortgebouw</a>, where Kenny has prepared the guestroom and we&#8217;re invited to wine and conversation in the kitchen.</span></p>
+<p><span class="Femke">The next morning starts with a presentation of the work done at the media workgroup NRC Handelsblad, a &#8216;quality newspaper&#8217; from The Netherlands. We&#8217;re presented with another intelligent workflow that is developed from within the company and able to reflect different working cultures within the company. It allows NRC to publish content in 13 parallel formats.<br />
+</span></p>
+<p><img src="http://ospublish.constantvzw.org/image/plog-content/thumbs/snapshots/pixelprint/large/1084-nrcmedia.jpg"></p>
+<p><span class="Lauren">Editorial sites, marketing sites, digital outlets to media outputs such as phone, ebook, iphone, newsletter and journals are all presented. NRC&#038;Media tries to model new innovations in publishing liquid news by researching the different formats. Of course this does not happen flawless as NRC&#038;Media is split up in many sections each providing different newsfeeds. The problem of publishing liquid news coherently is often aggravated because of the fact that formatting content is at the same time telling a story too.</span> “There would not be so many problems if you divide content and form strictly”. <span class="Femke">Yet another version of the technocentric W3C mantra, even sadder because it is so easy to understand that in difficult economic times, when newspapers need to explode their product families and reduce costs simultaneously, &#8216;flawless integration&#8217; is a more profitable kind of wishful thinking than the messiness of dealing with specific qualities of each particular format. I don&#8217;t mean that a pdf is not reflowable and a mobile phone screen only 200 pixels wide. As Gerrit Imsieke already mentioned,</span> “conversion is costly”. <span class="Femke">The presentation ends with a Citizen Kane quote. Not sure whether bitter irony was intended?</span></p>
+<blockquote><p>Thatcher: <em>Is that really your idea of how to run a newspaper ?!</em><br />
+Kane:<em> I don&#8217;t know how to run a newspaper, Mr. Thatcher. I just try everything I can think of.</em></p></blockquote>
+<p><span class="Lauren">This is followed up by Lou Lichtenberg from the Netherlands Press Fund who raises the apocalyptic question</span> &#8220;Do newspapers still have a future?&#8221; <span class="Lauren">and the statement </span>&#8220;the news of the future is Facebook&#8221;. <span class="Lauren">One useful conclusion from this lecture can be that papers need to be reinvented but it did not reach further.</span></p>
+<p><span class="Femke">Simon Worthington presents Mute magazine, Mute-POD and their &#8216;feral&#8217; distribution system</span> <a href="http://www.moreismore.net">More is More</a>. <span class="Femke">He is interested in employing Amazon, Google and other mainstream systems in order to make alternative forms of publishing and distribution possible. For small scale publishers, books are actually the only kind of publishing product that you can make a living from</span>.</p>
+<p><span class="Femke">Allessandro Ludovico is the current research fellow at the Communication in a digital age programme. He presents a first chapter of his forthcoming book. , asking what paper can do in &#8216;non-material&#8217; times. </span>“Print is liberating”, <span class="Femke">he sais; quoting André Breton that</span> “One publishes to find comrades”. <span class="Femke">Print is for Ludovico about fostering ideas, a viral but physical communication model. What follows is a dazzling tour through radical examples of self-publishing, the underestimated networked distribution system of the post, co-opted sympathetic printers that made political zines possible, mimeographs and dripping colors. I discover the Underground Press Syndicate Directory</span><sup><a href="#footnote_6_2603" id="identifier_6_2603" class="footnote-link footnote-identifier-link" title="http://en.wikipedia.org/wiki/Underground_Press_Syndicate">7</a></sup> <span class="Femke">and remember The Ranters</span><sup><a href="#footnote_7_2603" id="identifier_7_2603" class="footnote-link footnote-identifier-link" title="http://en.wikipedia.org/wiki/Ranters">8</a></sup>. <span class="Femke">It ends with the strangely encouraging statement that</span> “This mutation of print will not be easy nor straightforward”. <span class="Femke">I&#8217;m sorry that I have to leave before the final discussion begins.</span></p>
+<p><span class="Lauren">At the end of the conference, Florian Cramer challenges NRC&#038;Media, Matthew Berner, Gerrit Imsieke, Alessandro Ludovico, Simon Worthington and the OPL-ers for some last critical notes on the whole pixel/print conference.<br />
+The whole essence of publishing is questioned on the background of networking media and self-publishing features such as those presented by OPL. Publishing does no longer simply happen from content to consumer, from A to B. Nor does it involve the traditional model from the professional publisher to the amateur reader. Everyone can publish content, everyone can publish books through POD-publishing, the strict line between the professions no longer exist nor does it happen unambiguously.<br />
+The rising complexity of publishing media demands new innovations which is for instance a goal of NRC&#038;Media, the professional angle. But, innovation can happen as easily through amateur initiatives, NRC&#038;Media discusses. </span>&#8220;There is definitely a distinction between amateurs and professionals. Both have their advantages. Being an amateur can give a sort of freedom which you don&#8217;t have when working on larger scales as professionals do. It opens up the space for personal approaches and critical notes. Working on a small scale does give you this sort of freedom.&#8221; <span class="Lauren">The OPL lab happily receive this premise by expressing their enthusiasm of projects being initiated even when they are poorly programmed or designed. A same kind of anarchic enthusiasm is aired, as appealing as Ludovico&#8217;s lecture on a constellation of fanzines. The pleasure of expression through the contemplative act of publishing!</span></p>
+<p><span class="Lauren">Next Florian Cramer asks the presenters which name they would have given this conference as the name initially raised some questions<sup><a href="#footnote_8_2603" id="identifier_8_2603" class="footnote-link footnote-identifier-link" title="OSP for example proposed to call the conference print/vector   ">9</a></sup>. While all think print/pixel is concise enough some interesting answers are given. &#8216;<strong>Publishing / programming</strong>&#8216; offered by Le-Tex involves the shift in technologies. Matthew Berner rethinks it from the design angle and operates the term &#8216;<strong>System Design</strong>&#8216;, as designing nowadays is as much rethinking the system. OPL lab offers &#8216;<strong>Print 2.0</strong>&#8216;, &#8216;<strong>Integration conversions</strong>&#8216; and &#8216;<strong>Publishing, real soon now</strong>&#8216;. NRC handles the topic from quiet a pragmatical perspective: </span>&#8220;We really have this practical problem of designing a paper or different outputs on a small screen. One issue is scalability. A lot of design solutions will need to answer the idea of scalability. So —  &#8216;<strong>Perspectives on scalability</strong>&#8216;?&#8221; <span class="Lauren">Finally Alessandro Ludovico states that as being part of the lecture organization it is hard to offer a critical answer.</span> &#8220;The only thing I can add is a sort of urgency for printing, publishing. &#8216;<strong>The need for publishing</strong>&#8216; — that could be a valuable title.&#8221;</p>
+<p><span class="Lauren">Cramer brings up that these terms are all very heavily related to webdesign. Is the web after all overpowering print? Or how is the interaction between both? He states that Wikipedia as a whole is a webdesign as it derives its structure from the content. This is a total different approach than a traditional design-process. The form now, is completely derived from the structure, interface, programming…  The whole idea of reflowable, liquid content is an idea that ignores a fixed design. It does not involve formations that correspond to the content but to the structure of the medium where it is being published.<br />
+The similar issue of customization brought up by the POD system (FC mentions the <a href="http://ospublish.constantvzw.org/works/500-printed">Piet Zwart Graduation catalogue designed by OSP</a> as an act of customization) is mentioned as a new print model. FC aims his question at NRC and asks if NRC would use the option of letting the end-user customize their own news. NRC answers that this whole idea of newspapers having a wall of curators and filters is opposite treatment of the profession.</span> &#8220;My editors have the idea that news has to be accessible to all, and reach as much people as possible. Customization is a process that a customer should do themselves. I think it is an overrated concept.&#8221; </p>
+<p><span class="Lauren">The mood is stirred with a last these that</span> &#8220;this is a conference of almost perfect combinatorics&#8221; <span class="Lauren">which is answered with loud laughter.</span> &#8220;The amount of communality was so high that we did not really have to go deep into certain subjects in order to understand each other… I would really want to have this same group of people again, and I am sure that other topics would be touched. But that it would be as interesting at least!&#8221;</p>
+<p>[Applause]</p>
+<ol class="footnotes"><li id="footnote_0_2603" class="footnote">The organisers kindly supported our trip up north. [<a href="#identifier_0_2603" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_2603" class="footnote">&#8220;As the war plants had closed down, there was more electricity than was needed at the time. This surplus fed Ibuka’s desire to produce items which were needed for everyday life. The electric rice cooker, made by merely interlocking aluminum electrodes which were connected to the bottom of a wooden tub, was a primitive product. The result depended heavily on the kind of rice used and the weight of the water. Tasty rice was a rarity, as the rice cooker produced mostly undercooked or overcooked rice.&#8221; http://www.sonyinsider.com/2009/03/16/one-of-sonys-first-products-a-rice-cooker/ [<a href="#identifier_1_2603" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_2_2603" class="footnote">&#8220;The work of the IDPF will foster and promote the development of electronic publishing applications and products that will benefit creators of content, makers of reading systems and consumers.&#8221; http://www.openebook.org [<a href="#identifier_2_2603" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_3_2603" class="footnote">“Tschichold (&#8230;) wanted his rules to be obeyed without discussion. He addresses designers in a language for programming robots. I am not the first to observe this, but I seem to be alone in my conclusion that Tschichold’s rules obstruct design, undermine civilization, and offend humanity.” http://www.hyphenpress.co.uk/journal/2007/09/15/rule_or_law [<a href="#identifier_3_2603" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_4_2603" class="footnote">“If you automate a workflow, at what point do you think intervention is possible or even desired?&#8221; [<a href="#identifier_4_2603" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_5_2603" class="footnote">The people from OPL think I am talking about quality standards. The next morning, we apologize to each other for the misunderstanding but before I can clarify my question, Tona Henderson suggests: “I have been discussing your question with my colleagues and we thought that maybe we should think about a Dublin Core for design”. That has me silent for a while, but it is actually an interesting thought! [<a href="#identifier_5_2603" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_6_2603" class="footnote">http://en.wikipedia.org/wiki/Underground_Press_Syndicate [<a href="#identifier_6_2603" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_7_2603" class="footnote">http://en.wikipedia.org/wiki/Ranters [<a href="#identifier_7_2603" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_8_2603" class="footnote">OSP for example proposed to call the conference print/vector <img src='http://ospublish.constantvzw.org/wp-includes/images/smilies/icon_wink.gif' alt=';-)' class='wp-smiley' />   [<a href="#identifier_8_2603" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>							</div>
+			<p class="meta">Tags:  &middot; <a href="http://ospublish.constantvzw.org/tag/conference" rel="tag">Conference</a>, <a href="http://ospublish.constantvzw.org/tag/printing-publishing" rel="tag">Printing + Publishing</a>, <a href="http://ospublish.constantvzw.org/tag/report" rel="tag">Report</a>, <a href="http://ospublish.constantvzw.org/tag/rotterdam" rel="tag">Rotterdam</a></p>
+		</div>
+			<div class="clear"></div>
+		
+				</div><!--wide_post-->
+</div><!--left_side-->
+
+<div class="sidebar">
+		<li class="widget">
+<h2>Related Posts</h2>
+<ul class="related_post"><li><a href="http://ospublish.constantvzw.org/news/pre-announcement-printpixel-conference" title="Pre-announcement: print/pixel conference">Pre-announcement: print/pixel conference</a></li><li><a href="http://ospublish.constantvzw.org/news/paper-view-assembly" title="PA/PER VIEW: Assembly">PA/PER VIEW: Assembly</a></li><li><a href="http://ospublish.constantvzw.org/news/the-first-months-of-2011" title="The first months of 2011">The first months of 2011</a></li><li><a href="http://ospublish.constantvzw.org/news/from-cage-to-pipeline" title="from cage to pipeline">from cage to pipeline</a></li><li><a href="http://ospublish.constantvzw.org/news/446-nancy-a5" title="446 Nancy A5">446 Nancy A5</a></li><li><a href="http://ospublish.constantvzw.org/news/fund-libre-graphics-magazine-1-1" title="Fund Libre Graphics Magazine 1.1!">Fund Libre Graphics Magazine 1.1!</a></li><li><a href="http://ospublish.constantvzw.org/news/open-sauces" title="Open Sauces">Open Sauces</a></li></ul></li>	</div>
+<div class="r_sidebar">
+		<ul>
+	<li class="widget">
+		<form method="get" id="search_form" action="http://ospublish.constantvzw.org/">
+	<input type="text" class="search_input" value="Search" name="s" id="s" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+	<input type="hidden" id="searchsubmit" value="Search" />
+</form>
+	</li>
+
+</ul>	</div>
+<div class="commentbar">
+		
+<!-- You can start editing here. -->
+
+<div class="comments">
+	<ul>
+
+<li class="widget">
+<h2>
+1 Comment &darr;</h2>
+</li>
+
+
+	
+			
+		<li>
+			<p>
+				<h3>1. <a href='http://digitalblogosphere.com/news/websites/wikipedia/wikipedia-google-sources-content/' rel='external nofollow' class='url'>Wikipedia Google Sources Content | World News</a></h3>
+				<p class="meta">May 21, 2009 at 4:35 am			</p>
+
+			<div class="entry">
+				<p>[...] a traditional design-process. The form now, is completely derived from the structure, interface, [...]The Social Side of Search &#8211; WolframAlpha Wikis Google and Twitter &#8230;  Wikipedia is a Wiki. Wikis [...]</p>
+ 
+							</div>
+
+		</li>
+		
+			
+	</ul>
+		
+	
+
+	<!-- Comment Form -->
+		
+		
+			<h3>Leave a Comment</h3>
+			<form action="http://ospublish.constantvzw.org/wp-comments-post.php" method="post" id="comment_form">
+			
+			
+							<label for="author">Name</label><input type="text" name="author" id="author" value="" tabindex="1" />
+				<label for="email">e-mail</label><input type="text" name="email" id="email" value="" tabindex="2" />
+				<label for="url">Website</label><input type="text" name="url" id="url" value="" tabindex="3" />
+							<!--<p><small><strong>XHTML:</strong> You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </small></p>-->
+			
+				<label for="comment">
+				Comment</label><textarea name="comment" id="comment" rows="8" tabindex="4"></textarea>
+			
+				
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="6b0658b27c" /></p><div id="trymath_cont">
+ <p>
+  <label for="trymath">
+    If you are human, solve the math-challenge below and enter the answer here:
+  </label>
+  <input type="text" name="trymath" id="trymath" />
+ <pre>  ___     .    ___ 
+ /   \ `. | / /   \
+ >---<   \-'    _-'
+ '   `  ,|\    /   
+ `---' / | \  /___,
+                   
+</pre>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+//for( i = 0; i < document.forms.length; i++ ) {
+//	if( typeof(document.forms[i].trymath) != 'undefined' ) {
+//		commentForm = document.forms[i].comment.parentNode;
+//		break;
+//	}
+//}
+//var commentArea = commentForm.parentNode;
+//var captchafrm = document.getElementById("trymath_cont");
+//commentArea.insertBefore(captchafrm, commentForm);
+//commentArea.trymath.size = commentArea.author.size;
+//commentArea.trymath.className = commentArea.author.className;
+function insertAfter (referenceNode, newNode) {
+  referenceNode.parentNode.insertBefore (newNode, referenceNode.nextSibling);
+}
+var captchafrm = document.getElementById("trymath_cont");
+var url = document.getElementById ('url');
+if (url != undefined) {
+  insertAfter (url, captchafrm);
+}
+//]]>
+</script>
+			
+					<input name="submit" type="submit" id="submit" src="http://ospublish.constantvzw.org/wp-content/themes/osp/images/submit_comment.gif" tabindex="5" value="Submit" />
+					<input type="hidden" name="comment_post_ID" value="2603" />
+				
+	
+			</form>
+
+		
+</div><!--comments-->
+	</div>	
+	</div>
+
+	<div id="footer">
+		<p>Powered by <a href="http://constantvzw.org">Constant</a> &middot; Unless otherwise noticed, all content available under a <a href="http://artlibre.org/licence/lal/en/">Free Art Licence</a></p>
+		<script type='text/javascript' src='http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/lib/jquery.cycle.all.min.js?ver=2.7.3'></script>
+<script type='text/javascript' src='http://ospublish.constantvzw.org/wp-content/plugins/portfolio-slideshow/lib/portfolio-slideshow.js?ver=1.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {
+	ajax_url: "http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/wp-polls.php",
+	text_wait: "Your last request is still being processed. Please wait a while ...",
+	text_valid: "Please choose a valid poll answer.",
+	text_multiple: "Maximum number of choices allowed: ",
+	show_loading: "1",
+	show_fading: "1"
+};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ospublish.constantvzw.org/wp-content/plugins/wp-polls/polls-js.js?ver=2.50'></script>
+<script type="text/javascript">/* <![CDATA[ */var portfolioSlideshowOptions = {psHash: 'true',psLoader: 'false'};/* ]]> */</script>	
+		<!-- Start of StatCounter Code -->
+		<script type="text/javascript" language="javascript">
+		var sc_project=2602710; 
+		var sc_invisible=0; 
+		var sc_partition=25; 
+		var sc_security="a6dedaff"; 
+		</script>
+		<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c26.statcounter.com/counter.php?sc_project=2602710&java=0&security=a6dedaff&invisible=0" alt="free hit counter" border="0"></a> </noscript>
+		<!-- End of StatCounter Code -->
+	</div><!--footer-->
+
+</div><!--container-->
+
+</body>
+</html>
